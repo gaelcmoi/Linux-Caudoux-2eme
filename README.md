@@ -1,4 +1,5 @@
 # Linux Caudoux 2ème année  
 
 début du cours : 05/11/2024  
-création et configuration d'une VM Ubuntu (24.01.1)
+création et configuration d'une VM Ubuntu (24.04) : avec openssh comme packet  
+acces a celle-ci via Putty (utilisation de PuttyGen) et redirection de port sur la VM  
