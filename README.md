@@ -6,4 +6,5 @@ TP1 : 05/11/2024
 - acces a celle-ci via Putty (utilisation de PuttyGen)
 - connexion possible !
 
-TP2 : /11/2024
+TP2 : 05/11/2024
+- début tp
